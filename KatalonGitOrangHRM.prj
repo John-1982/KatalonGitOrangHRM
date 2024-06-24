@@ -6,11 +6,12 @@
    <UUID>309ed259-405f-4a87-b53a-c8581dcacaca</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.5.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.5.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\USER\git\KatalonGitOrangHRM\KatalonGitOrangHRM\KatalonGitOrangHRM\KatalonGitOrangHRM\KatalonGitOrangHRM.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
